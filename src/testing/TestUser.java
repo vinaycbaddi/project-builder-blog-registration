@@ -1,9 +1,7 @@
 package testing;
 
 import static org.junit.Assert.*;
-
 import java.time.LocalDateTime;
-
 import org.junit.Test;
 
 import model.User;
